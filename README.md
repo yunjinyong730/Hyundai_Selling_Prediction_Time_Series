@@ -29,8 +29,9 @@ ARIMA 모델을 사용해 자동차 모델(Avante, Sonata, G80)의 월별 판매
 [sales_forecast.txt](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/0dd5e5ed-cc17-4db0-9bf6-3c9482b6b875/sales_forecast.txt)
 
 - 추세선
+![G80_arima_dynamic](https://github.com/user-attachments/assets/14f2478e-b3c8-4775-85d9-bab2f3f14e74)
 
-![G80_arima_dynamic.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/cd2bf2a4-960d-4842-8ac1-edb29da39054/G80_arima_dynamic.png)
+
 
 - 원가절감 (원)
 
@@ -79,7 +80,8 @@ LSTM 모델 구축 및 학습:
 
 - 현대 화성 갈끄니까
 
-![LSTM_2030_prediction.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/638b13ee-ed8c-4c90-bce6-8bee86614f79/LSTM_2030_prediction.png)
+![LSTM_2030_prediction](https://github.com/user-attachments/assets/32209217-c4ea-49cc-a29d-c537397d0077)
+
 
 - 2025 상세 예측
     
@@ -100,8 +102,8 @@ LSTM 모델 구축 및 학습:
     | 2025-10-31 | 5,622 | 996 | 4,931 |
     | 2025-11-30 | 5,619 | 995 | 4,907 |
     | 2025-12-31 | 5,676 | 1,015 | 4,963 |
-    
-    ![Monthly Sales Data.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3de099d9-93f3-4629-a573-b788330d4c5a/89444e2b-a9dc-48b1-8d12-610c5279cc6b/Monthly_Sales_Data.png)
+    ![Monthly Sales Data](https://github.com/user-attachments/assets/c273ab4e-5806-4892-8797-54cae4b2889d)
+
     
 
 - 2031년까지 상세 예측 데이터
